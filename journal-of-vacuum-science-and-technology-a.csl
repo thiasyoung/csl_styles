@@ -14,10 +14,8 @@
     <category citation-format="numeric"/>
     <category field="physics"/>
     <category field="chemistry"/>
-    <issn>0734-2101</issn>
-    <eissn>1520-8559</eissn>
     <summary>AIP-based style for Journal of Vacuum Science &amp; Technology A: numeric superscript in-text citations; journal article titles and issue numbers omitted from the bibliography.</summary>
-    <updated>2026-02-19T20:00:00+00:00</updated>
+    <updated>2026-02-19T20:30:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
