@@ -1,46 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>Journal of Vacuum Science and Technology A (AIP 4th ed., no article titles)</title>
+    <title>Journal of Vacuum Science &amp; Technology A</title>
     <title-short>JVST A</title-short>
-
-    <!-- Retain original AIP style ID for provenance -->
-    <id>http://www.zotero.org/styles/american-institute-of-physics</id>
-
-    <link href="http://www.zotero.org/styles/american-institute-of-physics" rel="self"/>
-    <link href="http://www.aip.org/pubservs/style/4thed/toc.html" rel="documentation"/>
+    <id>http://www.zotero.org/styles/journal-of-vacuum-science-and-technology-a</id>
+    <link href="http://www.zotero.org/styles/journal-of-vacuum-science-and-technology-a" rel="self"/>
+    <link href="http://www.zotero.org/styles/american-institute-of-physics" rel="template"/>
+    <link href="https://publishing.aip.org/resources/researchers/" rel="documentation"/>
     <link href="https://publishing.aip.org/wp-content/uploads/2021/03/AIP_Style_4thed.pdf" rel="documentation"/>
-
-    <!-- No attempt to make compound citations is made here <http://forums.zotero.org/discussion/4288/> -->
-
     <author>
-      <name>Richard Karnesky</name>
-      <email>karnesky+zotero@gmail.com</email>
-      <uri>http://arc.nucapt.northwestern.edu/Richard_Karnesky</uri>
-    </author>
-
-    <contributor>
-      <name>Patrick O'Brien</name>
-    </contributor>
-
-    <!-- Added contributor for JVST A customization -->
-    <contributor>
       <name>Matthias Young</name>
-    </contributor>
-
+    </author>
     <category citation-format="numeric"/>
     <category field="physics"/>
-
-    <summary>
-      Derived from the AIP Style Manual (4th edition) and customized for Journal of Vacuum Science and Technology A:
-      numeric superscript in-text citations; journal article titles and issue numbers omitted from the bibliography.
-    </summary>
-
-    <updated>2026-02-19T00:00:00+00:00</updated>
-
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">
-      This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License
-    </rights>
+    <category field="chemistry"/>
+    <issn>0734-2101</issn>
+    <eissn>1520-8559</eissn>
+    <summary>AIP-based style for Journal of Vacuum Science &amp; Technology A: numeric superscript in-text citations; journal article titles and issue numbers omitted from the bibliography.</summary>
+    <updated>2026-02-19T20:00:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
     <names variable="author">
